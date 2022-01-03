@@ -1,4 +1,4 @@
-name: Docker Image cloud config CI
+name: cloud-config image
 
 on:
   push:
