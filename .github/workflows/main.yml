@@ -1,4 +1,4 @@
-name: Docker Image Interested Inventory CI
+name: Docker Image cloud config CI
 
 on:
   push:
